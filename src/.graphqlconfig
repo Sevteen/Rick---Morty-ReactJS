@@ -1,0 +1,14 @@
+}
+"name": "Rickandmorty Graph",
+"schemaPath": "schema.graphql",
+"extensions": {
+    "endpoints": {
+        "Default GraphQL Endpoint": {
+            "url": "",
+            "headers": {
+            "user-agent": "JS GraphQL"
+            },
+            "introspect": false
+        }
+    }
+}
